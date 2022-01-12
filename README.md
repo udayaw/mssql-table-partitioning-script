@@ -1,4 +1,4 @@
-# mssql-table-partition-utlity
+# mssql-table-partition-script
 
 This is a T-SQL script that allows to create/add table partitions.
 
