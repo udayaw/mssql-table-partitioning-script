@@ -1,7 +1,7 @@
-# mssql-partition
+# mssql-table-partition-utlity
 
-This is a easy to use script that can be used to create/add mssql partitions.
+This is a T-SQL script that allows to create/add table partitions.
 
-[CreatePartition.sql](CreatePartition.sql) script allows you to,
-- create mssql partition on a unpartitioned table
-- add partition to already partitioned table
+[CreatePartition.sql](CreatePartition.sql) script allows to,
+- partition a unpartitioned table
+- add partitions to partitioned table
